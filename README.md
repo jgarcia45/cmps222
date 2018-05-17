@@ -1,4 +1,4 @@
-# cmps222 Object-Oriented Programming
+# cmps222 - Object-Oriented Programming
 Builds on foundation provided by CMPS 221 to introduce the concepts of 
 object-oriented programming.  The course focuses on the definition and 
 use of classes and the fundamentals of object-oriented design.  Other 
